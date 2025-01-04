@@ -1,0 +1,8 @@
+name: gapminder_clone
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas=2.2
+  - matplotlib=3.9
+  - plotly=5.24
